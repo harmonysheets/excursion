@@ -6,7 +6,9 @@ body {
 }
 header {
     color: white;
-    font-weight: normal;
+    font-weight: normal;   
+}
+h1 {
     font-size: 50px;
 }
 a {
